@@ -22,3 +22,9 @@ flutter:
 
   assets:
   - images/
+
+  fonts:
+    - family: Source
+      fonts:
+        - asset: fonts/Source.ttf
+
